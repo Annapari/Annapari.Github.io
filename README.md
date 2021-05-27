@@ -78,7 +78,7 @@ Finally, we may also share your Personal where required or permitted to by law, 
 
 <p>If you have any queries or concerns about our website Privacy Statement, or want to make a complaint, please ... </p>
 <ul>
-<li><a href="admin@mylunch.nz">Email us </a> </li>
+<li><a href="mailto:admin@mylunch.nz?subject = Query from Website rerading your Privacy Policy = Message">Email us </a> </li>
 
 <li>Call us : (xx) xxx xxxx </li>
 
