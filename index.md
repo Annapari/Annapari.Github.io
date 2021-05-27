@@ -1,6 +1,4 @@
----
-layout: default
----
+
 theme: jekyll-theme-slate
 # Eat My Lunch
 
