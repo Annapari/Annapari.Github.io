@@ -90,7 +90,7 @@ Finally, we may also share your Personal where required or permitted to by law, 
 
 <p>If you are not happy with our response to any privacy-related concern you have raised with us, you may contact the Privacy Commissioner: </p>
 <ul>
- <li>Web:<a href="www.privacy.org.nz">www.privacy.org.nz</a> </li>
+<li>Web:<a href="www.privacy.org.nz">www.privacy.org.nz</a> </li>
 
 <li>Email: <a href="mailto:enquiries@privacy.org.nz?subject = Privacy Query = Message">enquiries@privacy.org.nz</a>  </li>
 
