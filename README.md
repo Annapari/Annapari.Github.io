@@ -12,7 +12,7 @@
 
 <p>We collect Device Information using the following technologies:</p> 
 <ul>
-<li>“Cookies” are data files that are placed on your device or computer and often include an anonymous unique identifier. For more information about cookies, and how to disable cookies, visit http://www.allaboutcookies.org.</li> 
+<li>“Cookies” are data files that are placed on your device or computer and often include an anonymous unique identifier. For more information about cookies, and how to disable cookies, visit <a href="http://www.allaboutcookies.org">www.allaboutcookies.org</a> .</li> 
 
 <li>“Log files” track actions occurring on the Site, and collect data including your IP address, browser type, Internet service provider, referring/exit pages, and date/time stamps.</li> 
 
@@ -42,7 +42,7 @@ When we talk about “Personal Information” in this Privacy Policy, we are tal
 
 <h2>When do we share your information? </h2>
 
-<p>We share your Personal Information with third parties to help us use your Personal Information, as described above.  For example, we use Shopify to power our online store--you can read more about how Shopify uses your Personal Information here:  <a href="https://www.shopify.com/legal/privacy">www.shopify.com/legal/privacy</a>.  We also use Google Analytics to help us understand how our customers use the Site--you can read more about how Google uses your Personal Information here:  <a href="https://www.google.com/intl/en/policies/privacy/">www.google.com/intl/en/policies/privacy/</a>.  You can also opt-out of Google Analytics here: <a href="https://tools.google.com/dlpage/gaoptout"tools.google.com/dlpage/gaoptout</a> . 
+<p>We share your Personal Information with third parties to help us use your Personal Information, as described above.  For example, we use Shopify to power our online store--you can read more about how Shopify uses your Personal Information here:  <a href="https://www.shopify.com/legal/privacy">www.shopify.com/legal/privacy</a>.  We also use Google Analytics to help us understand how our customers use the Site--you can read more about how Google uses your Personal Information here:  <a href="https://www.google.com/intl/en/policies/privacy/">www.google.com/intl/en/policies/privacy/</a>.  You can also opt-out of Google Analytics here: <a href="https://tools.google.com/dlpage/gaoptout">tools.google.com/dlpage/gaoptout</a> . 
 
 Finally, we may also share your Personal where required or permitted to by law, where you have authorised us to do so or where disclosure is connected to the purpose for which the information was collected. For example, we may provide personal information about you to a third party contracted to complete the delivery of your order. </P>
 
