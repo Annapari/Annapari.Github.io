@@ -76,13 +76,13 @@ Finally, we may also share your Personal where required or permitted to by law, 
 
 <h2>Contact us</h2> 
 
-<p>If you have any queries or concerns about our website Privacy Statement, or want to make a complaint, please contact us: </p>
+<p>If you have any queries or concerns about our website Privacy Statement, or want to make a complaint, please ... </p>
 <ul>
-<li>Email: xxx@xxx </li>
+<li><a href="admin@mylunch.nz"> Email us </a> </li>
 
-<li>Phone: (xx) xxx xxxx </li>
+<li>Call us : (xx) xxx xxxx </li>
 
-<li>Mail us or just pop by for a cuppa:  Wellington 6011. </li>
+<li>Mail us or just pop by for a cuppa: 123 Test street, Wellington 6011. </li>
 </ul>
 <p>It is Eat My Lunch’s policy to handle complaints in a timely, effective, fair and consistent manner. Upon receipt of any complaint we will communicate with you, setting out the details of the person who will manage your complaint and the expected response time (usually within 20 business days after the complaint is received.) If we need more time to resolve your complaint we will contact you explaining the reasons for this. </p>
 
@@ -92,7 +92,7 @@ Finally, we may also share your Personal where required or permitted to by law, 
 <ul>
 <li>Web: www.privacy.org.nz </li>
 
-<li>Email: <a href="enquiries@privacy.org.nz"enquiries@privacy.org.nz /a>  </li>
+<li>Email: <a href="enquiries@privacy.org.nz"> enquiries@privacy.org.nz </a>  </li>
 
 <li>Phone: (04) 474 7590 (Wgtn) (09) 302 8680 (Akld) </li>
 
