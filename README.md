@@ -70,7 +70,7 @@ Finally, we may also share your Personal where required or permitted to by law, 
 
 <li>Physical security measures, such as laptop cable locks. </li>
 </ul>
-<h2>Changes <//h2>
+<h2>Changes </h2>
 
 <p>We may update this privacy policy from time to time in order to reflect, for example, changes to our practices or for other operational, legal or regulatory reasons. </p>
 
