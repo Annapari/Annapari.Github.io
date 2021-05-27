@@ -78,7 +78,7 @@ Finally, we may also share your Personal where required or permitted to by law, 
 
 <p>If you have any queries or concerns about our website Privacy Statement, or want to make a complaint, please ... </p>
 <ul>
-<li><a href="admin@mylunch.nz"> Email us </a> </li>
+<li><a href="admin@mylunch.nz">Email us </a> </li>
 
 <li>Call us : (xx) xxx xxxx </li>
 
@@ -92,7 +92,7 @@ Finally, we may also share your Personal where required or permitted to by law, 
 <ul>
 <li>Web: www.privacy.org.nz </li>
 
-<li>Email: <a href="enquiries@privacy.org.nz"> enquiries@privacy.org.nz </a>  </li>
+<li>Email: <a href="enquiries@privacy.org.nz">enquiries@privacy.org.nz</a>  </li>
 
 <li>Phone: (04) 474 7590 (Wgtn) (09) 302 8680 (Akld) </li>
 
