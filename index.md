@@ -1,3 +1,6 @@
+---
+layout: default
+---
 theme: jekyll-theme-slate
 # Eat My Lunch
 
@@ -8,7 +11,7 @@ Create your account, select your order and for each purchase made *Eat my lunch*
 ![buy one, give one](https://Annapari.Github.io/brown-bag-lunchbox-foods.jpg)
 
 
-[our privacy statement](https://Annapari.github.io/privacypolicy.html)
+[read our privacy policy](https://Annapari.github.io/privacypolicy.html)
 
 [Email us](mailto:admin@mylunch.nz) <br>
 Call us : (04) 123 4567 <br> 
