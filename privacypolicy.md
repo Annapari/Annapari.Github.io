@@ -77,13 +77,13 @@ Finally, we may also share your Personal where required or permitted to by law, 
 
 <h2>Contact us</h2> 
 
-<p>If you have any queries or concerns about our website Privacy Statement, or want to make a complaint, please ... </p>
+<p>If you have any queries or concerns about our website Privacy Statement, or want to make a complaint, please contact us  </p>
 <ul>
-<li><a href="mailto:admin@mylunch.nz?subject=Query from Website regading your Privacy Policy">Email us </a> </li>
+<li><a href="mailto:admin@eatmylunch.nz?subject=Query from Website regading your Privacy Policy">Email : admin@eatmylunch.nz </a> </li>
 
-<li>Call us : (xx) xxx xxxx </li>
+<li>Call : (xx) xxx xxxx </li>
 
-<li>Mail us or just pop by for a cuppa: 123 Test street, Wellington 6011. </li>
+<li>Mail : 123 Test street, Wellington 6011. </li>
 </ul>
 <p>It is Eat My Lunch’s policy to handle complaints in a timely, effective, fair and consistent manner. Upon receipt of any complaint we will communicate with you, setting out the details of the person who will manage your complaint and the expected response time (usually within 20 business days after the complaint is received.) If we need more time to resolve your complaint we will contact you explaining the reasons for this. </p>
 
