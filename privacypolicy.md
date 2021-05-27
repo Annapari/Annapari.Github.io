@@ -1,3 +1,7 @@
+---
+layout: default
+---
+remote_theme: jekyll-theme-slate
 <h1>Eat My Lunch Privacy Policy </h1>
 
  
@@ -12,7 +16,7 @@
 
 <p>We collect Device Information using the following technologies:</p> 
 <ul>
-<li>“Cookies” are data files that are placed on your device or computer and often include an anonymous unique identifier. For more information about cookies, and how to disable cookies, visit http://www.allaboutcookies.org.</li> 
+<li>“Cookies” are data files that are placed on your device or computer and often include an anonymous unique identifier. For more information about cookies, and how to disable cookies, visit <a href="http://www.allaboutcookies.org">www.allaboutcookies.org</a> .</li> 
 
 <li>“Log files” track actions occurring on the Site, and collect data including your IP address, browser type, Internet service provider, referring/exit pages, and date/time stamps.</li> 
 
@@ -42,7 +46,7 @@ When we talk about “Personal Information” in this Privacy Policy, we are tal
 
 <h2>When do we share your information? </h2>
 
-<p>We share your Personal Information with third parties to help us use your Personal Information, as described above.  For example, we use Shopify to power our online store--you can read more about how Shopify uses your Personal Information here:  https://www.shopify.com/legal/privacy.  We also use Google Analytics to help us understand how our customers use the Site--you can read more about how Google uses your Personal Information here:  https://www.google.com/intl/en/policies/privacy/.  You can also opt-out of Google Analytics here:  https://tools.google.com/dlpage/gaoptout. 
+<p>We share your Personal Information with third parties to help us use your Personal Information, as described above.  For example, we use Shopify to power our online store--you can read more about how Shopify uses your Personal Information here:  <a href="https://www.shopify.com/legal/privacy">www.shopify.com/legal/privacy</a>.  We also use Google Analytics to help us understand how our customers use the Site--you can read more about how Google uses your Personal Information here:  <a href="https://www.google.com/intl/en/policies/privacy/">www.google.com/intl/en/policies/privacy/</a>.  You can also opt-out of Google Analytics here: <a href="https://tools.google.com/dlpage/gaoptout">tools.google.com/dlpage/gaoptout</a> . 
 
 Finally, we may also share your Personal where required or permitted to by law, where you have authorised us to do so or where disclosure is connected to the purpose for which the information was collected. For example, we may provide personal information about you to a third party contracted to complete the delivery of your order. </P>
 
@@ -76,13 +80,13 @@ Finally, we may also share your Personal where required or permitted to by law, 
 
 <h2>Contact us</h2> 
 
-<p>If you have any queries or concerns about our website Privacy Statement, or want to make a complaint, please contact us: </p>
+<p>If you have any queries or concerns about our website Privacy Statement, or want to make a complaint, please ... </p>
 <ul>
-<li>Email: xxx@xxx </li>
+<li><a href="mailto:admin@mylunch.nz?subject = Query from Website rerading your Privacy Policy = Message">Email us </a> </li>
 
-<li>Phone: (xx) xxx xxxx </li>
+<li>Call us : (xx) xxx xxxx </li>
 
-<li>Mail us or just pop by for a cuppa:  Wellington 6011. </li>
+<li>Mail us or just pop by for a cuppa: 123 Test street, Wellington 6011. </li>
 </ul>
 <p>It is Eat My Lunch’s policy to handle complaints in a timely, effective, fair and consistent manner. Upon receipt of any complaint we will communicate with you, setting out the details of the person who will manage your complaint and the expected response time (usually within 20 business days after the complaint is received.) If we need more time to resolve your complaint we will contact you explaining the reasons for this. </p>
 
@@ -90,9 +94,9 @@ Finally, we may also share your Personal where required or permitted to by law, 
 
 <p>If you are not happy with our response to any privacy-related concern you have raised with us, you may contact the Privacy Commissioner: </p>
 <ul>
-<li>Web: www.privacy.org.nz </li>
+<li>Web:<a href="http://www.privacy.org.nz">www.privacy.org.nz</a> </li>
 
-<li>Email: enquiries@privacy.org.nz </li>
+<li>Email: <a href="mailto:enquiries@privacy.org.nz?subject = Privacy Query = Message">enquiries@privacy.org.nz</a>  </li>
 
 <li>Phone: (04) 474 7590 (Wgtn) (09) 302 8680 (Akld) </li>
 
