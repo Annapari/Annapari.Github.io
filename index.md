@@ -1,5 +1,5 @@
 
-<h1>Eat My Lunch Privacy Policy test </h1> 
+<h1>Eat My Lunch Privacy Policy </h1> 
 
   
   
