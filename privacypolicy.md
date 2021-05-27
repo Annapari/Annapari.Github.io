@@ -51,7 +51,7 @@ Finally, we may also share your Personal where required or permitted to by law, 
 
 <h2>Rights of access and correction of personal information </h2>
 
-<p>Under the Privacy Act 2020 you have the right to access and to request correction of any of your personal information. If you’d like to ask for a copy of your information, or to have it corrected, please contact us at the details below. </P>
+<p>Under the Privacy Act 2020 you have the right to access and to request correction of any of your personal information. If you’d like to ask for a copy of your information, or to have it corrected, please contact us at the details below. We may impose a reasonable charge for supplying the information to you.</P>
 
 <p>You may choose the self-service option to update your personal information at any time by logging in and saving any relevant changes to your online Account. </P>
 
