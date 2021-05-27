@@ -1,5 +1,8 @@
 
-theme: jekyll-theme-slate
+---
+layout: default
+---
+remote
 # Eat My Lunch
 
 We are a New Zealand based Social Enterprise that makes and distributes lunches with a **‘Buy one, give one’** business model.
