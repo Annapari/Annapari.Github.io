@@ -1,9 +1,9 @@
 
-<h1>Eat My Lunch Privacy Policy </h1>
+<h1>Eat My Lunch - Our Privacy Policy </h1>
 
  
 
-<p>This Privacy Policy describes how your personal information is collected, used, and shared when you visit or make a purchase from us. </p> 
+<p>This Privacy Policy describes how your personal information is collected, used, and shared when you visit or make a purchase from our website. </p> 
 
  
 
