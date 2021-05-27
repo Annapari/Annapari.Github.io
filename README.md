@@ -1,4 +1,4 @@
-theme:
+theme: jekyll-theme-slate
 
 # **Eat My Lunch**
 
