@@ -79,9 +79,9 @@ Finally, we may also share your Personal where required or permitted to by law, 
 
 <p>If you have any queries or concerns about our website Privacy Statement, or want to make a complaint, please contact us  </p>
 <ul>
-<li><a href="mailto:admin@eatmylunch.nz?subject=Query from Website regading your Privacy Policy">Email : admin@eatmylunch.nz </a> </li>
+<li>Email : <a href="mailto:admin@eatmylunch.nz?subject=Query from Website regading your Privacy Policy">admin@eatmylunch.nz </a> </li>
 
-<li>Call : (xx) xxx xxxx </li>
+<li>Call : (04) 123 4567 </li>
 
 <li>Mail : 123 Test street, Wellington 6011. </li>
 </ul>
