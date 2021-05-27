@@ -92,7 +92,7 @@ Finally, we may also share your Personal where required or permitted to by law, 
 <ul>
 <li>Web: www.privacy.org.nz </li>
 
-<li>Email: <a href="enquiries@privacy.org.nz">enquiries@privacy.org.nz</a>  </li>
+<li>Email: <a href="mailto:enquiries@privacy.org.nz?subject = Privacy Query = Message">enquiries@privacy.org.nz</a>  </li>
 
 <li>Phone: (04) 474 7590 (Wgtn) (09) 302 8680 (Akld) </li>
 
