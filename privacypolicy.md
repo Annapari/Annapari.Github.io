@@ -1,6 +1,4 @@
----
-layout: default
----
+
 remote_theme: jekyll-theme-slate
 <h1>Eat My Lunch Privacy Policy </h1>
 
